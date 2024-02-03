@@ -25,15 +25,12 @@ header{
 ul{
     list-style-type: none;
     display: flex;
-    margin-top: 0;
-    justify-content: center;
     justify-content: space-around;
     align-items: center;
 }
 
 ul li{
     position: relative;
-    display: flex;
     text-decoration: none;
     background-color: rgb(116, 4, 4);
 }
