@@ -65,3 +65,8 @@ li > a{
 ul > li > a:hover{
     text-decoration: underline black;
 }
+
+p{
+    margin: 10px;
+    font-size: 20px;
+}
